@@ -1,2 +1,2 @@
 # hello-world
-my first one
+print('L,welcome to the world!')
